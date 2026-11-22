@@ -20,13 +20,29 @@ Building practical AI and Machine Learning solutions with Python.
 - 🌱 Currently developing my skills in AI Engineering.
 - 🎯 Working towards building intelligent, data-driven solutions.
 
+
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,git,github" />
 </p>
 
-**Additional Tools:** Matplotlib, Random Forest, RandomOverSampler, RandomizedSearchCV.
+**Libraries & Frameworks:**
+
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+**Machine Learning:**
+
+- Random Forest
+- RandomOverSampler
+- RandomizedSearchCV
+- Hyperparameter Tuning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+
 
 ## 🚀 Projects
 
